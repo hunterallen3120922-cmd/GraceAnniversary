@@ -1,0 +1,5 @@
+# The unencrypted page stays on your computer only.
+# If you pushed it, anyone could read it on GitHub without the password.
+src/
+.staticrypt.json
+node_modules/
